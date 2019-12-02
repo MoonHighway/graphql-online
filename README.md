@@ -27,14 +27,12 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 - [City to City Through Types](https://codesandbox.io/s/5vzn2rkzxn)
 - [Modular Schema](https://github.com/eveporcello/schema-workshop/tree/master/06-extras/modularizing-a-schema/finished)
 - [Lab Instructions](https://slides.com/moonhighway/schema-lab/)
-- [Possible Lab Solutions](https://github.com/graphqlworkshop/schema-activity)
+- [Lab Repository](https://github.com/graphqlworkshop/schema-activity)
 
 ### Building a GraphQL API
 
 - [Exercise Start Files](https://github.com/graphqlworkshop/snowtooth-api)
 - [Lab Instructions](https://slides.com/moonhighway/server-lab/)
-- [Sample Data](https://bit.ly/2VF5zJU)
-- [Starting Schemas](https://github.com/graphqlworkshop/schema-activity)
 - [Simple Strava Sample](https://github.com/eveporcello/simple-strava-sample/blob/master/index.js)
 - [REST Data Sources](https://github.com/MoonHighway/countries-datasources)
 
