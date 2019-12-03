@@ -35,6 +35,7 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 - [Lab Instructions](https://slides.com/moonhighway/server-lab/)
 - [Simple Strava Sample](https://github.com/eveporcello/simple-strava-sample/blob/master/index.js)
 - [REST Data Sources](https://github.com/MoonHighway/countries-datasources)
+- [Resolvers - PayPal Blog](https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbcef55)
 
 ### Unions and Interfaces
 
