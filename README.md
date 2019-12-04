@@ -28,6 +28,7 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 - [Modular Schema](https://github.com/eveporcello/schema-workshop/tree/master/06-extras/modularizing-a-schema/finished)
 - [Lab Instructions](https://slides.com/moonhighway/schema-lab/)
 - [Lab Repository](https://github.com/graphqlworkshop/schema-activity)
+- [Mocking](https://github.com/graphqlworkshop/mocking)
 
 ### Building a GraphQL API
 
