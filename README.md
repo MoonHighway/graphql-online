@@ -34,8 +34,10 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 
 - [Exercise Start Files](https://github.com/graphqlworkshop/snowtooth-api)
 - [Simple Strava Sample](https://github.com/eveporcello/simple-strava-sample/blob/master/index.js)
+- [Photo Share API Sample - MongoDB](https://github.com/graphqlworkshop/photo-share-api/blob/step-e3/src/index.js)
+- [Data Sources Docs](https://www.apollographql.com/docs/apollo-server/data/data-sources/)
 - [REST Data Sources](https://github.com/MoonHighway/countries-datasources)
-- [Resolvers - PayPal Blog](https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbcef55)
+- [Resolver Best Practices - PayPal Blog](https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbcef55)
 
 ### Unions and Interfaces
 
