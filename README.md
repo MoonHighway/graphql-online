@@ -38,6 +38,7 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 - [Data Sources Docs](https://www.apollographql.com/docs/apollo-server/data/data-sources/)
 - [REST Data Sources](https://github.com/MoonHighway/countries-datasources)
 - [Resolver Best Practices - PayPal Blog](https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbcef55)
+- [Mutation Pet Library](https://github.com/MoonHighway/pet-library/blob/initial-version/src/resolvers/Mutation.js)
 
 ### Unions and Interfaces
 
