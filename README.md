@@ -43,6 +43,20 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 - [Union Types](https://codesandbox.io/s/rm2rx3opqm)
 - [Interfaces](https://codesandbox.io/s/71x8n304r1)
 
+### Client Intro Samples
+
+- Simple cURL Request
+
+```sh
+curl -X POST \
+     -H "Content-Type: application/json" \
+     --data '{ "query": "{allLifts{name}}" }' \
+     http://snowtooth.moonhighway.com
+```
+
+- [Fetch Sample](https://codesandbox.io/s/n3jro0o4n0)
+- [graphql-request](https://codesandbox.io/s/4qzq5z2vz0)
+
 ### Auth Examples
 
 - [Pet Library](https://pet-library.moonhighway.com)
