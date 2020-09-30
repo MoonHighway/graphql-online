@@ -24,8 +24,9 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 ### GraphQL Schema Definition Language
 
 - [Schema Definition Language Slides](https://slides.com/moonhighway/schema-definition-language/)
-- [City to City Through Types](https://codesandbox.io/s/5vzn2rkzxn)
-- [Modular Schema](https://github.com/eveporcello/schema-workshop/tree/master/06-extras/modularizing-a-schema/finished)
+- [Starting Schema](https://github.com/MoonHighway/pet-library-schema)
+- [First Schema Iteration](https://github.com/MoonHighway/pet-library-schema/tree/initial-schema)
+- [Complete Schema](https://github.com/MoonHighway/pet-library-schema/tree/complete)
 - [Lab Instructions](https://slides.com/moonhighway/schema-lab/)
 - [Lab Repository](https://github.com/graphqlworkshop/schema-activity)
 - [Mocking](https://github.com/graphqlworkshop/mocking)
