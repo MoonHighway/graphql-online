@@ -24,6 +24,7 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 ### GraphQL Schema Definition Language
 
 - [Schema Definition Language Slides](https://slides.com/moonhighway/schema-definition-language/)
+- [CodeSandbox Starting Schema](https://codesandbox.io/s/github/moonhighway/pet-library-schema)
 - [Starting Schema](https://github.com/MoonHighway/pet-library-schema)
 - [First Schema Iteration](https://github.com/MoonHighway/pet-library-schema/tree/initial-schema)
 - [Complete Schema](https://github.com/MoonHighway/pet-library-schema/tree/complete)
