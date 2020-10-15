@@ -47,6 +47,7 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 - [Unions & Interfaces Slides](https://slides.com/moonhighway/unions-interfaces)
 - [Union Types](https://codesandbox.io/s/rm2rx3opqm)
 - [Interfaces](https://codesandbox.io/s/71x8n304r1)
+- [Finished Snowtooth API CodeSandbox](https://codesandbox.io/s/modest-cherry-rmh4q)
 
 ### Client Intro Samples
 
@@ -61,11 +62,16 @@ curl -X POST \
 
 - [Fetch Sample](https://codesandbox.io/s/n3jro0o4n0)
 - [graphql-request](https://codesandbox.io/s/4qzq5z2vz0)
+- [Snowtooth UI](https://github.com/graphqlworkshop/snowtooth-ui)
 
 ### Auth Examples
 
 - [Pet Library](https://pet-library.moonhighway.com)
 - [Pet Library Implementation](https://github.com/MoonHighway/pet-library/blob/initial-version/src/resolvers/Mutation.js)
+
+## Federation
+
+- [Start Project - Federation](https://github.com/graphqlworkshop/snowtooth-federation-lab)
 
 ## Next Steps
 
